@@ -1,6 +1,22 @@
 @font-face {
-  font-family: face;
-  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
+  font-family: "Figtree";
+  src: local("../assets/fonts/Figtree-VariableFont_wght.ttf");
+  font-weight: 500 800;
+}
+body {
+  font-size: 16px;
+  line-height: 150%;
+  font-family: "Figtree", sans-serif;
+}
+
+/* Attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 /*# sourceMappingURL=style.css.map */

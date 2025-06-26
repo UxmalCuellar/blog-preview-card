@@ -1,9 +1,26 @@
-$yellow: #f4d04e;
-$gray-950: #111111;
-$gray-500: #6b6b6b;
-$white: #ffffff;
+$yellow: hsl(47, 88%, 63%);
+$white: hsl(0, 0%, 100%);
+$gray-500: hsl(0, 0%, 42%);
+$gray-950: hsl(0, 0%, 7%);
 
 @font-face {
-  font-family: face;
-  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
+  font-family: "Figtree";
+  src: local("../assets/fonts/Figtree-VariableFont_wght.ttf");
+  font-weight: 500 800;
+}
+
+body {
+  font-size: 16px;
+  line-height: 150%;
+  font-family: "Figtree", sans-serif;
+}
+
+/* Attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
