@@ -43,7 +43,7 @@ article :hover h2 {
 .featued-image {
   border-radius: 10px;
   width: 100%;
-  padding-bottom: 24px;
+  margin-bottom: 24px;
 }
 
 .content {
