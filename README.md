@@ -28,7 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/UxmalCuellar/blog-preview-card)
 - Live Site URL: [Live site URL](https://uxmalcuellar.github.io/blog-preview-card/)
 
 ## My process
@@ -38,8 +37,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - SASS
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -56,6 +53,6 @@ body {
 
 ## Author
 
-- Website - [Uxmal Cuellar](https://www.uxmalcuellar.com)
+- Website - [Uxmal Cuellar](https://uxmalcuellar.com)
 - Frontend Mentor - [@uxmalcuellar](https://www.frontendmentor.io/profile/uxmalcuellar)
 - Twitter - [@uxmalcuellar](https://www.twitter.com/uxmalcuellar)
