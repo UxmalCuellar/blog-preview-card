@@ -15,7 +15,7 @@ $gray-950: hsl(0, 0%, 7%);
 }
 
 body {
-  font-size: 16px;
+  font-size: clamp(14px, 2.5vw, 16px);
   line-height: 150%;
   letter-spacing: 0%;
   font-family: "Figtree", sans-serif;
@@ -66,7 +66,7 @@ article {
   font-weight: 800;
   border-radius: 4px;
   padding: 4px 12px;
-  font-size: 14px;
+  font-size: clamp(12px, 2.5vw, 14px);
 }
 
 #publish-date {
